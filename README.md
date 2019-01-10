@@ -764,6 +764,7 @@ Build one of the images:
     make build_ruby23
     make build_ruby24
     make build_ruby25
+    make build_ruby26
     make build_jruby92
     make build_nodejs
     make build_customizable
